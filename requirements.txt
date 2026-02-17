@@ -1,6 +1,7 @@
+streamlit
 numpy
 pandas
-streamlit
-pillow
 scikit-learn
+scipy
 plotly
+Pillow
