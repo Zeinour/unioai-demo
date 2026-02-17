@@ -1,0 +1,4 @@
+musteri_id,yas,gelir_duzeyi,gecikme_sayisi,toplam_borc,gecikme_gunu,son_odeme_uzerinden_gun,kanal_tercihi,geri_odeme
+1,29,Orta,1,8500.0,15,25,SMS,1
+2,41,Yuksek,0,12000.0,0,5,Arama,1
+3,23,Dusuk,3,4300.0,60,90,E-posta,0
